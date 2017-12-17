@@ -1,0 +1,22 @@
+{
+  "name": "hero-archive",
+  "version": "1.0.0",
+  "description": "What kind of hero, do you need?",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s11j/hero-archive.git"
+  },
+  "author": "Shikha Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s11j/hero-archive/issues"
+  },
+  "homepage": "https://github.com/s11j/hero-archive#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
